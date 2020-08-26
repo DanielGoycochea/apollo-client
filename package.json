@@ -14,8 +14,13 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
+    "apollo-boost": "^0.4.9",
     "gatsby": "^2.24.50",
+    "gatsby-source-graphql": "^2.7.1",
+    "graphql-tag": "^2.11.0",
+    "isomorphic-fetch": "^2.2.1",
     "react": "^16.12.0",
+    "react-apollo": "^3.1.5",
     "react-dom": "^16.12.0"
   },
   "devDependencies": {
